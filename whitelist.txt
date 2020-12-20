@@ -7352,3 +7352,10 @@ zopim.com
 zoso.ro
 zz.cqcounter.com
 zzzzzz.vk.com
+tm.cybersource.com
+stats.gc.apple.com
+identity.mparticle.com
+app-measurement.com
+control.kochava.com
+logx.optimizely.com
+xp.apple.com
