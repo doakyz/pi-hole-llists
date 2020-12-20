@@ -7359,3 +7359,5 @@ app-measurement.com
 control.kochava.com
 logx.optimizely.com
 xp.apple.com
+paypalobjects.com
+b.stats.paypal.com
